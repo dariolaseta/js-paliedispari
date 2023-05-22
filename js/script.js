@@ -1,6 +1,6 @@
 // Palindrome
 
-/*const userWord = prompt("Inserisci una parola:");
+const userWord = prompt("Inserisci una parola:");
 let reversedUserWord = reverse(userWord);
 
 function reverse(normalUserWord){
@@ -18,7 +18,7 @@ if(userWord == reversedUserWord){
     console.log("La parola non è palindroma.")
 }else{
     console.log("La parola inserita non è corretta.");
-}*/
+}
 
 // Odd or even
 
